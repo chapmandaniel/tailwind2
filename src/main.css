@@ -26,3 +26,16 @@
 .bg-gray-400 {
     background-color: #363636 !important;
 }
+
+.bg-active {
+    background-color: darkolivegreen !important;
+}
+
+.app-btn{
+    cursor: pointer;
+    transition: 1s;
+}
+
+.app-btn:hover, .app-btn:active{
+    background-color: #232323 !important;
+}
