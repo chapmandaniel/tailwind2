@@ -33,9 +33,8 @@
 
 .app-btn{
     cursor: pointer;
-    transition: 1s;
 }
 
-.app-btn:hover, .app-btn:active{
+.app-btn-active{
     background-color: #232323 !important;
 }
